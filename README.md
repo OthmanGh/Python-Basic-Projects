@@ -1,4 +1,4 @@
 # Python-Programming
 
-Projects : 
-1 - Number Guessing Game 
+Projects :
+1 - Basic Calculator
